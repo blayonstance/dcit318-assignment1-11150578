@@ -1,0 +1,15 @@
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\bin\Debug\net8.0\dcit318-assignment1-11150578.exe
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\bin\Debug\net8.0\dcit318-assignment1-11150578.deps.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\bin\Debug\net8.0\dcit318-assignment1-11150578.runtimeconfig.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\bin\Debug\net8.0\dcit318-assignment1-11150578.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\bin\Debug\net8.0\dcit318-assignment1-11150578.pdb
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.AssemblyInfoInputs.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.AssemblyInfo.cs
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.csproj.CoreCompileInputs.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.sourcelink.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\refint\dcit318-assignment1-11150578.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.pdb
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\dcit318-assignment1-11150578.genruntimeconfig.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\obj\Debug\net8.0\ref\dcit318-assignment1-11150578.dll

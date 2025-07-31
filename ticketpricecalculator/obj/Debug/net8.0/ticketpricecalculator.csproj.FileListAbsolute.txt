@@ -1,0 +1,15 @@
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\bin\Debug\net8.0\ticketpricecalculator.exe
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\bin\Debug\net8.0\ticketpricecalculator.deps.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\bin\Debug\net8.0\ticketpricecalculator.runtimeconfig.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\bin\Debug\net8.0\ticketpricecalculator.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\bin\Debug\net8.0\ticketpricecalculator.pdb
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.AssemblyInfoInputs.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.AssemblyInfo.cs
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.csproj.CoreCompileInputs.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.sourcelink.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\refint\ticketpricecalculator.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.pdb
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ticketpricecalculator.genruntimeconfig.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\ticketpricecalculator\obj\Debug\net8.0\ref\ticketpricecalculator.dll

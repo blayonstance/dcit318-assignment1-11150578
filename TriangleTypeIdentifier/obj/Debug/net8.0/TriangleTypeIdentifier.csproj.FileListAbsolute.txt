@@ -1,0 +1,15 @@
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.exe
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.deps.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifier.dll
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\bhell\Desktop\dcit318-assignment1-11150578\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifier.dll
